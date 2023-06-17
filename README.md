@@ -1,4 +1,4 @@
-### <h1 text align="center">Hi! I'm ENTIREX64</h1>
+### <h1 text align="center">Hi! I'm NTrX</h1>
 <h3 text align="center"> A basic HTML and CSS coder</h3><br>
 
 <p><font size="120px"><ul>
