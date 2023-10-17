@@ -2,7 +2,7 @@
 <h3 text align="center"> A basic HTML and CSS coder</h3><br>
 
 <p><font size="120px"><ul>
-<li> 🔭 I’m currently working on a WsCatex</li>
+<li> 🔭 I’m currently working on WsCatex</li>
 <li> 🌱 I’m currently learning more about CSS</li>
 <li> 🛠️ I've made <a href="https://github.com/ENTIREX64/CstCursor">CstCursor</a>
 <li> 🤔 I’m looking for help with Java</li>
