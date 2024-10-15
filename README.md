@@ -7,7 +7,6 @@
 <li> 🛠️ I've made <a href="https://github.com/ENTIREX64/CstCursor">CstCursor</a> and <a href="https://github.com/ENTIREX64/WsCatex">WsCatex</a>
 <li> 🤔 I’m looking for help with Java</li>
 <li> 📫 How to reach me: dtdays.2020@gmail.com</li>
-<li> 🎮 I play Roblox, <a href="https://www.roblox.com/users/3187627219/profile">This is my profile</a></li>
 <li> 🎹 I play keyboard</li>
 </ul></font></p>
 </p>
